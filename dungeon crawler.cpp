@@ -360,7 +360,7 @@ int main() {
             } else if (opcao == 3) {
                 limpar_tela();
                 printf("=== CREDITOS DO JOGO ===\n");
-                printf("Desenvolvido por: Abner Italo, Jean Yves, Bernardo Emanuel e Lucas Braz\n");
+                printf("Desenvolvido por: Abner Italo, Jean Yves e Bernardo Emanuel\n");
                 printf("Obrigado por jogar!\n");
                 break;
             }
